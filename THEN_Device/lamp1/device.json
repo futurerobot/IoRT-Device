@@ -1,0 +1,9 @@
+{
+  "name": "lamp1",
+  "icon": "",
+  "description": "room1",
+  "version": "0.0.1",
+  "eventlist": ["turnon", "turnoff"],
+  "eventType": "both",
+  "scripts": ["index.js"]
+}
