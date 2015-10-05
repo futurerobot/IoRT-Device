@@ -1,9 +1,0 @@
-{
-  "name": "outlet2",
-  "icon": "",
-  "description": "living room2",
-  "version": "0.0.1",
-  "eventlist": ["turnon", "turnoff", ""],
-  "eventType": "both",
-  "scripts": ["index.js"]
-}
