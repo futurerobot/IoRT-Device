@@ -1,0 +1,10 @@
+{
+  "name": "lamp4",
+  "icon": "",
+  "description": "room2 lamp",
+  "place": "room2",
+  "index": "1",
+  "user": "shkwak",
+  "eventlist": ["turnon", "turnoff", "stauts"],
+  "network": "192.168.0.57:8080"
+}

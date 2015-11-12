@@ -1,0 +1,10 @@
+{
+"name": "robot1",
+"icon": "",
+"description": "living room",
+"place": "living",
+"user": "shkwak",
+"eventlist": ["turnon", "turnoff", "status"],
+"eventType": "both",
+"network": "192.168.0.57:8080"
+}

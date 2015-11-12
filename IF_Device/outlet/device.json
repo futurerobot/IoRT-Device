@@ -1,0 +1,10 @@
+{
+  "name": "outlet",
+  "icon": "",
+  "description": "living room outlet1",
+  "place": "living",
+  "index": "1",
+  "user": "shkwak",
+  "eventlist": ["turnon", "turnoff", "stauts"],
+  "network": "192.168.0.57:8080"
+}
